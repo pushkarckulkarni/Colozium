@@ -1,4 +1,4 @@
 # Colozium
 Online Blog
 
-// Second master Visual I guess
+// master pulled from second master
